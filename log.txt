@@ -1,0 +1,468 @@
+Test results:
+Topic:  acq
+--> accuracy:  0.9486725663716814 %
+--> precision:  0.7238095238095238
+--> recall:  1.0
+--> f1-measure:  0.8397790055248618
+###############################################
+Topic:  alum
+No TEST Document belongs to this topic...
+###############################################
+Topic:  austdlr
+No TEST Document belongs to this topic...
+###############################################
+Topic:  austral
+No TEST Document belongs to this topic...
+###############################################
+Topic:  barley
+No TEST Document belongs to this topic...
+###############################################
+Topic:  bfr
+No TEST Document belongs to this topic...
+###############################################
+Topic:  bop
+No TEST Document belongs to this topic...
+###############################################
+Topic:  can
+No TEST Document belongs to this topic...
+###############################################
+Topic:  carcass
+No TEST Document belongs to this topic...
+###############################################
+Topic:  castor-meal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  castor-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  castorseed
+No TEST Document belongs to this topic...
+###############################################
+Topic:  citruspulp
+No TEST Document belongs to this topic...
+###############################################
+Topic:  cocoa
+No TEST Document belongs to this topic...
+###############################################
+Topic:  coconut
+No TEST Document belongs to this topic...
+###############################################
+Topic:  coconut-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  coffee
+--> accuracy:  0.9982300884955753 %
+--> precision:  1.0
+--> recall:  0.75
+--> f1-measure:  0.8571428571428571
+###############################################
+Topic:  copper
+No TEST Document belongs to this topic...
+###############################################
+Topic:  copra-cake
+No TEST Document belongs to this topic...
+###############################################
+Topic:  corn
+No TEST Document belongs to this topic...
+###############################################
+Topic:  corn-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  cornglutenfeed
+No TEST Document belongs to this topic...
+###############################################
+Topic:  cotton
+No TEST Document belongs to this topic...
+###############################################
+Topic:  cotton-meal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  cotton-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  cottonseed
+No TEST Document belongs to this topic...
+###############################################
+Topic:  cpi
+--> accuracy:  0.984070796460177 %
+--> precision:  0.3333333333333333
+--> recall:  0.125
+--> f1-measure:  0.18181818181818182
+###############################################
+Topic:  cpu
+No TEST Document belongs to this topic...
+###############################################
+Topic:  crude
+--> accuracy:  0.9256637168141593 %
+--> precision:  0.5609756097560976
+--> recall:  0.8846153846153846
+--> f1-measure:  0.6865671641791045
+###############################################
+Topic:  cruzado
+No TEST Document belongs to this topic...
+###############################################
+Topic:  dfl
+No TEST Document belongs to this topic...
+###############################################
+Topic:  dkr
+No TEST Document belongs to this topic...
+###############################################
+Topic:  dlr
+No TEST Document belongs to this topic...
+###############################################
+Topic:  dmk
+No TEST Document belongs to this topic...
+###############################################
+Topic:  drachma
+No TEST Document belongs to this topic...
+###############################################
+Topic:  earn
+--> accuracy:  0.9876106194690265 %
+--> precision:  0.7586206896551724
+--> recall:  1.0
+--> f1-measure:  0.8627450980392156
+###############################################
+Topic:  escudo
+No TEST Document belongs to this topic...
+###############################################
+Topic:  f-cattle
+No TEST Document belongs to this topic...
+###############################################
+Topic:  ffr
+No TEST Document belongs to this topic...
+###############################################
+Topic:  fishmeal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  flaxseed
+No TEST Document belongs to this topic...
+###############################################
+Topic:  fuel
+No TEST Document belongs to this topic...
+###############################################
+Topic:  gas
+No TEST Document belongs to this topic...
+###############################################
+Topic:  gnp
+--> accuracy:  0.9752212389380531 %
+--> precision:  0.8571428571428571
+--> recall:  0.3157894736842105
+--> f1-measure:  0.46153846153846156
+###############################################
+Topic:  gold
+--> accuracy:  0.9752212389380531 %
+--> precision:  0.14285714285714285
+--> recall:  0.1111111111111111
+--> f1-measure:  0.125
+###############################################
+Topic:  grain
+--> accuracy:  0.9168141592920354 %
+--> precision:  0.44155844155844154
+--> recall:  0.8947368421052632
+--> f1-measure:  0.5913043478260869
+###############################################
+Topic:  groundnut
+No TEST Document belongs to this topic...
+###############################################
+Topic:  groundnut-meal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  groundnut-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  heat
+No TEST Document belongs to this topic...
+###############################################
+Topic:  hk
+No TEST Document belongs to this topic...
+###############################################
+Topic:  hog
+--> accuracy:  1.0 %
+--> precision:  1.0
+--> recall:  1.0
+--> f1-measure:  1.0
+###############################################
+Topic:  housing
+No TEST Document belongs to this topic...
+###############################################
+Topic:  income
+No TEST Document belongs to this topic...
+###############################################
+Topic:  instal-debt
+No TEST Document belongs to this topic...
+###############################################
+Topic:  interest
+--> accuracy:  0.9787610619469026 %
+--> precision:  0.6818181818181818
+--> recall:  0.75
+--> f1-measure:  0.7142857142857143
+###############################################
+Topic:  inventories
+No TEST Document belongs to this topic...
+###############################################
+Topic:  ipi
+--> accuracy:  0.9893805309734514 %
+--> precision:  1.0
+--> recall:  0.25
+--> f1-measure:  0.4
+###############################################
+Topic:  iron-steel
+No TEST Document belongs to this topic...
+###############################################
+Topic:  jet
+No TEST Document belongs to this topic...
+###############################################
+Topic:  jobs
+--> accuracy:  0.9911504424778761 %
+--> precision:  1.0
+--> recall:  0.16666666666666666
+--> f1-measure:  0.2857142857142857
+###############################################
+Topic:  l-cattle
+No TEST Document belongs to this topic...
+###############################################
+Topic:  lead
+No TEST Document belongs to this topic...
+###############################################
+Topic:  lei
+No TEST Document belongs to this topic...
+###############################################
+Topic:  lin-meal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  lin-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  linseed
+No TEST Document belongs to this topic...
+###############################################
+Topic:  lit
+No TEST Document belongs to this topic...
+###############################################
+Topic:  livestock
+No TEST Document belongs to this topic...
+###############################################
+Topic:  lumber
+No TEST Document belongs to this topic...
+###############################################
+Topic:  lupin
+No TEST Document belongs to this topic...
+###############################################
+Topic:  meal-feed
+No TEST Document belongs to this topic...
+###############################################
+Topic:  mexpeso
+No TEST Document belongs to this topic...
+###############################################
+Topic:  money-fx
+--> accuracy:  0.9168141592920354 %
+--> precision:  0.5384615384615384
+--> recall:  0.9074074074074074
+--> f1-measure:  0.6758620689655174
+###############################################
+Topic:  money-supply
+--> accuracy:  0.9858407079646018 %
+--> precision:  0.8571428571428571
+--> recall:  0.46153846153846156
+--> f1-measure:  0.6
+###############################################
+Topic:  naphtha
+No TEST Document belongs to this topic...
+###############################################
+Topic:  nat-gas
+No TEST Document belongs to this topic...
+###############################################
+Topic:  nickel
+No TEST Document belongs to this topic...
+###############################################
+Topic:  nkr
+No TEST Document belongs to this topic...
+###############################################
+Topic:  nzdlr
+No TEST Document belongs to this topic...
+###############################################
+Topic:  oat
+No TEST Document belongs to this topic...
+###############################################
+Topic:  oilseed
+No TEST Document belongs to this topic...
+###############################################
+Topic:  orange
+No TEST Document belongs to this topic...
+###############################################
+Topic:  palladium
+No TEST Document belongs to this topic...
+###############################################
+Topic:  palm-meal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  palm-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  palmkernel
+No TEST Document belongs to this topic...
+###############################################
+Topic:  peseta
+No TEST Document belongs to this topic...
+###############################################
+Topic:  pet-chem
+No TEST Document belongs to this topic...
+###############################################
+Topic:  platinum
+No TEST Document belongs to this topic...
+###############################################
+Topic:  plywood
+No TEST Document belongs to this topic...
+###############################################
+Topic:  pork-belly
+No TEST Document belongs to this topic...
+###############################################
+Topic:  potato
+No TEST Document belongs to this topic...
+###############################################
+Topic:  propane
+No TEST Document belongs to this topic...
+###############################################
+Topic:  rand
+No TEST Document belongs to this topic...
+###############################################
+Topic:  rape-meal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  rape-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  rapeseed
+No TEST Document belongs to this topic...
+###############################################
+Topic:  red-bean
+No TEST Document belongs to this topic...
+###############################################
+Topic:  reserves
+--> accuracy:  0.9911504424778761 %
+--> precision:  1.0
+--> recall:  0.16666666666666666
+--> f1-measure:  0.2857142857142857
+###############################################
+Topic:  retail
+No TEST Document belongs to this topic...
+###############################################
+Topic:  rice
+No TEST Document belongs to this topic...
+###############################################
+Topic:  ringgit
+No TEST Document belongs to this topic...
+###############################################
+Topic:  rubber
+No TEST Document belongs to this topic...
+###############################################
+Topic:  rupiah
+No TEST Document belongs to this topic...
+###############################################
+Topic:  rye
+No TEST Document belongs to this topic...
+###############################################
+Topic:  saudriyal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  sfr
+No TEST Document belongs to this topic...
+###############################################
+Topic:  ship
+--> accuracy:  0.984070796460177 %
+--> precision:  0.7692307692307693
+--> recall:  0.625
+--> f1-measure:  0.6896551724137931
+###############################################
+Topic:  silk
+No TEST Document belongs to this topic...
+###############################################
+Topic:  silver
+No TEST Document belongs to this topic...
+###############################################
+Topic:  singdlr
+No TEST Document belongs to this topic...
+###############################################
+Topic:  skr
+No TEST Document belongs to this topic...
+###############################################
+Topic:  sorghum
+No TEST Document belongs to this topic...
+###############################################
+Topic:  soy-meal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  soy-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  soybean
+No TEST Document belongs to this topic...
+###############################################
+Topic:  stg
+No TEST Document belongs to this topic...
+###############################################
+Topic:  strategic-metal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  sugar
+--> accuracy:  0.9769911504424779 %
+--> precision:  1.0
+--> recall:  0.38095238095238093
+--> f1-measure:  0.5517241379310345
+###############################################
+Topic:  sun-meal
+No TEST Document belongs to this topic...
+###############################################
+Topic:  sun-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  sunseed
+No TEST Document belongs to this topic...
+###############################################
+Topic:  tapioca
+No TEST Document belongs to this topic...
+###############################################
+Topic:  tea
+No TEST Document belongs to this topic...
+###############################################
+Topic:  tin
+No TEST Document belongs to this topic...
+###############################################
+Topic:  trade
+--> accuracy:  0.8920353982300885 %
+--> precision:  0.44
+--> recall:  0.8979591836734694
+--> f1-measure:  0.5906040268456376
+###############################################
+Topic:  tung
+No TEST Document belongs to this topic...
+###############################################
+Topic:  tung-oil
+No TEST Document belongs to this topic...
+###############################################
+Topic:  veg-oil
+--> accuracy:  0.9823008849557522 %
+--> precision:  0.5
+--> recall:  0.1
+--> f1-measure:  0.16666666666666669
+###############################################
+Topic:  wheat
+No TEST Document belongs to this topic...
+###############################################
+Topic:  wool
+No TEST Document belongs to this topic...
+###############################################
+Topic:  wpi
+No TEST Document belongs to this topic...
+###############################################
+Topic:  yen
+No TEST Document belongs to this topic...
+###############################################
+Topic:  zinc
+No TEST Document belongs to this topic...
+###############################################
+Test Set Examples:  565
+Test Set Accuracy:  95.58524551648522 %
+Test Set Precision:  0.7160500497245219
+Test Set recall:  0.19613533778947315
+Test Set f1-measure:  0.3079258236303055
